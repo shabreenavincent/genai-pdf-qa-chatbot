@@ -300,6 +300,8 @@ dashboard
 ```
 ### OUTPUT:
 
+<img width="952" height="441" alt="Screenshot 2025-09-26 112544" src="https://github.com/user-attachments/assets/bee2e176-da17-4b73-8dda-f8e78d34ac8b" />
+
 ### RESULT:
 Prompt: A structured prompt template was designed to pass the document content and user query to the language model.
 Model: OpenAI's GPT model was used to process the input data and provide an answer based on the document's content.
